@@ -15,12 +15,3 @@
 
 ### 단단한 강화학습
 <img width="247" alt="4" src="https://user-images.githubusercontent.com/86637300/135496204-9a5b76d9-38b8-4016-9fff-65ed9c5eb063.png">
-
-
-
-<<<<<<< HEAD
-* 파이썬과 케라스로 배우는 강화학습(개정판)  
-/Users/ho/Desktop/Screenshots/Screen Shot 2021-09-20 at 2.14.31 AM.png
-=======
->>>>>>> dfbd9e30d9fc557871375ddb1aff76a899b89e7f
-
